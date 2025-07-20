@@ -25,3 +25,7 @@ os.chdir('/home/rajs11/zipDir')
 os.system('zip -r zipFinal.zip zipFinal')
 # os.system('rm -r zipFinal')
 os.system('cp zipFinal.zip /home/rajs11/Backup')
+
+
+
+#using shutil also possible
